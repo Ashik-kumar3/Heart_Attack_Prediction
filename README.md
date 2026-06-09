@@ -49,6 +49,7 @@ The dataset may include:
 5. Model Training
 6. Model Evaluation
 7. Prediction and Analysis
+8. Model Deployment
 
 ## 🎯 Objective
 
@@ -57,13 +58,6 @@ To build a predictive model that can classify whether a patient is at risk of a 
 ## 📋 Results
 
 The trained model successfully identifies patterns in patient health data and predicts heart attack risk with strong classification performance.
-
-## 🔮 Future Improvements
-
-* Deploy as a Streamlit web application
-* Hyperparameter tuning
-* Advanced ensemble models
-* Real-time prediction interface
 
 ## 🤝 Contributions
 
